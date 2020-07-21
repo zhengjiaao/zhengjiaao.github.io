@@ -25,13 +25,32 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
     
     
       <category term="Elasticsearch" scheme="http://www.zhengjiaao.cn/tags/Elasticsearch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>公告</title>
+    <link href="http://www.zhengjiaao.cn/posts/1652353601.html"/>
+    <id>http://www.zhengjiaao.cn/posts/1652353601.html</id>
+    <published>2020-07-20T08:14:50.000Z</published>
+    <updated>2020-07-21T03:21:09.776Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jul 21 2020 12:40:56 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;&lt;p&gt;&lt;strong&gt;【公告-概述】&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;写文章是为了记录个人总结，给大家开放部分文章学习，请喷子远离&lt;/li&gt;&lt;li&gt;文章涉及到重要技术，需联系作者(&lt;a href=&quot;mailto:1263598336@qq.com&quot;&gt;1263598336@qq.com&lt;/a&gt;)获取阅读文章权限的密码&lt;/li&gt;&lt;li&gt;作者会不定期更新内容，并尽可能帮助解决大家反馈的问题&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="公告" scheme="http://www.zhengjiaao.cn/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
@@ -44,7 +63,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -63,7 +82,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;描述：谷歌插件，CSDN广告清除请自适应宽度脚本
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;描述：谷歌插件，CSDN广告清除请自适应宽度脚本
     
     </summary>
     
@@ -82,26 +101,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;&lt;p&gt;例如：支持简书生成目录&lt;/p&gt;&lt;p&gt;链接：&lt;a href=&quot;https://pan.baidu.com/s/1vYJj2kTXvY-ISs5S9C1GyQ&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pan.baidu.com/s/1vYJj2kTXvY-ISs5S9C1GyQ&lt;/a&gt; 提取码：vprp&lt;/p&gt;&lt;p&gt;下载并解压文件SmartTOC0.3.16.rar–&amp;gt;得到SmartTOC0.3.16 ，将SmartTOC0.3.16文件夹放到全英文路径下(例如放到桌面)。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="谷歌浏览器插件" scheme="http://www.zhengjiaao.cn/tags/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简书自动生成目录小工具脚本</title>
-    <link href="http://www.zhengjiaao.cn/posts/3432345057.html"/>
-    <id>http://www.zhengjiaao.cn/posts/3432345057.html</id>
-    <published>2020-01-03T08:14:51.000Z</published>
-    <updated>2020-07-20T10:37:55.333Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;&lt;p&gt;例如：支持简书生成目录&lt;/p&gt;&lt;p&gt;链接：&lt;a href=&quot;https://pan.baidu.com/s/1vYJj2kTXvY-ISs5S9C1GyQ&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pan.baidu.com/s/1vYJj2kTXvY-ISs5S9C1GyQ&lt;/a&gt; 提取码：vprp&lt;/p&gt;&lt;p&gt;下载并解压文件SmartTOC0.3.16.rar–&amp;gt;得到SmartTOC0.3.16 ，将SmartTOC0.3.16文件夹放到全英文路径下(例如放到桌面)。&lt;/p&gt;
     
     </summary>
     
@@ -120,26 +120,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="谷歌浏览器插件" scheme="http://www.zhengjiaao.cn/tags/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>谷歌浏览器插件安装</title>
-    <link href="http://www.zhengjiaao.cn/posts/173925288.html"/>
-    <id>http://www.zhengjiaao.cn/posts/173925288.html</id>
-    <published>2020-01-03T08:14:51.000Z</published>
-    <updated>2020-07-20T10:37:55.333Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -158,7 +139,26 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="谷歌浏览器插件" scheme="http://www.zhengjiaao.cn/tags/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简书自动生成目录小工具脚本</title>
+    <link href="http://www.zhengjiaao.cn/posts/3432345057.html"/>
+    <id>http://www.zhengjiaao.cn/posts/3432345057.html</id>
+    <published>2020-01-03T08:14:51.000Z</published>
+    <updated>2020-07-20T10:37:55.333Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -177,7 +177,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -188,15 +188,34 @@
   </entry>
   
   <entry>
-    <title>Solr-安装篇</title>
-    <link href="http://www.zhengjiaao.cn/posts/2717257258.html"/>
-    <id>http://www.zhengjiaao.cn/posts/2717257258.html</id>
+    <title>谷歌浏览器插件安装</title>
+    <link href="http://www.zhengjiaao.cn/posts/173925288.html"/>
+    <id>http://www.zhengjiaao.cn/posts/173925288.html</id>
     <published>2020-01-03T08:14:51.000Z</published>
-    <updated>2020-07-20T10:37:55.318Z</updated>
+    <updated>2020-07-20T10:37:55.333Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="谷歌浏览器插件" scheme="http://www.zhengjiaao.cn/tags/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solr-界面功能</title>
+    <link href="http://www.zhengjiaao.cn/posts/1601327121.html"/>
+    <id>http://www.zhengjiaao.cn/posts/1601327121.html</id>
+    <published>2020-01-03T08:14:51.000Z</published>
+    <updated>2020-07-20T10:37:55.319Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -215,45 +234,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Solr" scheme="http://www.zhengjiaao.cn/tags/Solr/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Solr-界面功能</title>
-    <link href="http://www.zhengjiaao.cn/posts/1601327121.html"/>
-    <id>http://www.zhengjiaao.cn/posts/1601327121.html</id>
-    <published>2020-01-03T08:14:51.000Z</published>
-    <updated>2020-07-20T10:37:55.319Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Solr" scheme="http://www.zhengjiaao.cn/tags/Solr/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Solr-连接数据库</title>
-    <link href="http://www.zhengjiaao.cn/posts/1689906707.html"/>
-    <id>http://www.zhengjiaao.cn/posts/1689906707.html</id>
-    <published>2020-01-03T08:14:51.000Z</published>
-    <updated>2020-07-20T10:37:55.319Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -272,7 +253,26 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Solr" scheme="http://www.zhengjiaao.cn/tags/Solr/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solr-安装篇</title>
+    <link href="http://www.zhengjiaao.cn/posts/2717257258.html"/>
+    <id>http://www.zhengjiaao.cn/posts/2717257258.html</id>
+    <published>2020-01-03T08:14:51.000Z</published>
+    <updated>2020-07-20T10:37:55.318Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -291,26 +291,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Solr" scheme="http://www.zhengjiaao.cn/tags/Solr/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Springboot-Solr-配置和使用</title>
-    <link href="http://www.zhengjiaao.cn/posts/2656162415.html"/>
-    <id>http://www.zhengjiaao.cn/posts/2656162415.html</id>
-    <published>2020-01-03T08:14:51.000Z</published>
-    <updated>2020-07-20T10:37:55.320Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -329,7 +310,45 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:57 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Solr" scheme="http://www.zhengjiaao.cn/tags/Solr/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Springboot-Solr-配置和使用</title>
+    <link href="http://www.zhengjiaao.cn/posts/2656162415.html"/>
+    <id>http://www.zhengjiaao.cn/posts/2656162415.html</id>
+    <published>2020-01-03T08:14:51.000Z</published>
+    <updated>2020-07-20T10:37:55.320Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jul 21 2020 12:40:58 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Solr" scheme="http://www.zhengjiaao.cn/tags/Solr/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solr-连接数据库</title>
+    <link href="http://www.zhengjiaao.cn/posts/1689906707.html"/>
+    <id>http://www.zhengjiaao.cn/posts/1689906707.html</id>
+    <published>2020-01-03T08:14:51.000Z</published>
+    <updated>2020-07-20T10:37:55.319Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jul 21 2020 12:40:58 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -348,7 +367,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:58 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
@@ -367,26 +386,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Git" scheme="http://www.zhengjiaao.cn/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GitHub上创建自己的Maven仓库并引用</title>
-    <link href="http://www.zhengjiaao.cn/posts/2439716409.html"/>
-    <id>http://www.zhengjiaao.cn/posts/2439716409.html</id>
-    <published>2020-01-03T08:14:51.000Z</published>
-    <updated>2020-07-20T10:37:55.322Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jul 21 2020 10:26:55 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+      &lt;!-- build time:Tue Jul 21 2020 12:40:58 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
     
     </summary>
     
